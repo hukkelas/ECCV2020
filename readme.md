@@ -1,6 +1,20 @@
+# ECCV 2020 Overview
+
 ## Useful Links
 
 - [All papers](https://www.ecva.net/papers.php)
+
+## Overview of Topics
+- [Interesting Papers](#interesting-papers)
+- [Image/Video Inpainting](#imagevideo-inpainting)
+- [Generative Models](#generative-models)
+- [Detection](#detection)
+
+## ECCV Dailies
+- [Monday](https://www.rsipvision.com/ECCV2020-Monday/)
+- [Tuesday](https://www.rsipvision.com/ECCV2020-Tuesday/)
+- [Wednesday](https://www.rsipvision.com/ECCV2020-Wednesday/)
+- [Thursday](https://www.rsipvision.com/ECCV2020-Thursday/)
 
 ## Interesting papers:
 
@@ -124,8 +138,3 @@
     * [[ECCV Link]](https://papers.eccv2020.eu/paper/1973/) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580562.pdf)
 
 
-## Dailies
-- [Monday](https://www.rsipvision.com/ECCV2020-Monday/)
-- [Tuesday](https://www.rsipvision.com/ECCV2020-Tuesday/)
-- [Wednesday](https://www.rsipvision.com/ECCV2020-Wednesday/)
-- [Thursday](https://www.rsipvision.com/ECCV2020-Thursday/)
